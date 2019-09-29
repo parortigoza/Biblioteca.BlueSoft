@@ -25,7 +25,7 @@ namespace Biblioteca.Controllers
         private IServiceLibro _serviceLibro { get; }
 
         /// <summary>
-        /// 
+        /// Obtiene listado de libros
         /// </summary>
         /// <returns></returns>
         [HttpGet]
